@@ -1,0 +1,105 @@
+{
+    "skills":[
+          {
+         "id": "1",
+         "src": "./feather-pen-1.png",
+         "title": "Front-end",
+         "description": "Helloib gsryjyqwuiltuejfhdg whg7h8edygeru"
+        },
+          {
+         "id": "2",
+         "src": "./feather-pen-1.png",
+         "title": "Web Flow",
+         "description": "Helloib gsryjyqwuiltuejfhdg whg7h8edygeru"
+        },
+        {
+         "id": "3",
+         "src": "./product-chain-1.png",
+         "title": "Facebook Ad",
+         "description": "Helloib gsryjyqwuiltuejfhdg whg7h8edygeru"
+        },
+         {
+         "id": "4",
+         "src": "./tag-1.png",
+         "title": "Web Design",
+         "description": "Helloib gsryjyqwuiltuejfhdg whg7h8edygeru"
+        }
+    ],
+    "portfolio":[
+          {
+         "id": "1",
+         "src": "./port 4.jpeg",
+         "title": "Ecommerce website",
+         "description": "Elevate your shopping experience with our seamless ecommerce app. Explore a vast array of products through an intuitive and visually appealing interface.",
+         "link":  "https://nitastore.com/", 
+         "linkText": "View site" 
+        },
+          {
+         "id": "2",
+         "src": "./port 2.jpeg",
+         "title": "Currency Converter",
+         "description": "Easily convert currencies on the go with our user-friendly app. Access real-time exchange rates and convert between various currencies effortlessly.",
+         "link": "https://counrency-converter.vercel.app/",
+         "linkText": "View site" 
+        },
+        {
+         "id": "3",
+         "src": "./port1.jpeg",
+         "title": "Budget App",
+         "description": "Take control of your finances with our intuitive budget app. Effortlessly manage your expenses, set financial goals, and track your spending in a user-friendly interface.",
+         "link": "https://budget-app-dusky-seven.vercel.app/",
+         "linkText": "View site" 
+         
+        },
+         {
+         "id": "4",
+         "src": "./port3.jpeg",
+         "title": "Weather App",
+         "description": "Experience weather at your fingertips with our sleek weather app. Get real-time updates on temperature, precipitation, and wind speed for any location.  Plan your day with confidence using accurate forecasts and interactive maps. ",
+         "link": "https://weather-app-virid-six-72.vercel.app/",
+         "linkText": "View site" 
+        }
+       
+       
+    ],
+     "testimonial":[
+          {
+         "id": "1",
+         "src": "./port 4.jpeg",
+         "title": "Ecommerce website",
+         "description": "Frank is an exceptionally talented web developer and designer. His proficiency in coding languages and eye for design detail make him stand out in the industry. I had the pleasure of collaborating with Frank on a project, and his commitment to delivering high-quality work within deadlines is truly commendable. I highly recommend Frank for any web development or design project.",
+        "author_name":"John",
+        "author_designation":"Oko"
+         
+        },
+          {
+         "id": "2",
+         "src": "./port 4.jpeg",
+         "title": "Ecommerce website",
+         "description": "Working with Frank was a fantastic experience. His web development skills are top-notch, and he has a keen understanding of user experience and design aesthetics. Frank's commitment to client satisfaction is evident in the seamless and visually appealing websites he creates. I wouldn't hesitate to recommend him to anyone seeking a skilled and reliable web developer.",
+        "author_name":"Kenneth",
+        "author_designation":"Yu"
+         
+        },
+        {
+         "id": "3",
+         "src": "./port 4.jpeg",
+         "title": "Ecommerce website",
+         "description": "Frank is an exceptional web developer and designer. I engaged his services on Fiverr, and he surpassed all expectations. Clear communication and a profound grasp of project requirements set him apart. Frank delivered a meticulously crafted website that not only met but exceeded our goals. I eagerly anticipate future collaborations with him.",
+        "author_name":"Mirabel",
+        "author_designation":"Mark"
+         
+        },
+        {
+         "id": "4",
+         "src": "./port 4.jpeg",
+         "title": "Ecommerce website",
+         "description": "Collaborating with Frank was a pleasure; his expertise in transforming creative concepts into functional, visually stunning websites is truly remarkable. Frank's professionalism, positive attitude, and innovative solutions make him a standout professional. For anyone seeking to enhance their web presence, Frank is the go-to person.",
+        "author_name":"Henry",
+        "author_designation":"Darwin"
+         
+        }
+       
+       
+    ]
+}
