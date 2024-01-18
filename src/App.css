@@ -623,6 +623,7 @@ body ::-webkit-scrollbar-thumb {
   flex: 1 0 0;
   width: 100%;
 }
+
 .contact--input {
   display: flex;
   font-family: "Roboto";
