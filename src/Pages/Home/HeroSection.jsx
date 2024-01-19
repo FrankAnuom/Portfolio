@@ -1,6 +1,12 @@
 import React from 'react';
-import Typical from 'react-typical';
+import { useTypewriter, Cursor } from 'react-simple-typewriter';
 const HeroSection=()=> {
+    const [typeEffect] = useTypewriter ({
+         words:["Think of website? ","Consider Frank","Front-End Developer","& Web designer "],
+        loop:{},
+        typeSpeed:100,
+        deleteSpeed:40
+    })
   return (
     <div className='profile-container ' id='HeroSection'>
         <div className='profile-parent'>
@@ -31,19 +37,7 @@ const HeroSection=()=> {
                     <span className='primary-text'>
                         {" "}
                         <h1>
-                            {" "}
-                            <Typical
-                            loop={Infinity}
-                            steps={[
-                                "Think of website 🌐? ",
-                                1000,
-                                 "Consider Frank",
-                                1000,
-                                 "Front-End Developer 👩🏻‍💻",
-                                1000,
-                                 "& Web designer 🎨",
-                            ]}
-                            />
+                        <span>{typeEffect}</span>
                         </h1>
                         <span className='profile-role-tagline'>
                             Developing Your desired taste!
